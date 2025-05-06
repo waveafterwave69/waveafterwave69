@@ -4,13 +4,13 @@
 
 Frontend Developer 🌧️
 
-- :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/wasdwave)**
+- 🧩: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
+- ✉️: &nbsp;Let's talk more in **[Telegram](https://t.me/wasdwave)**
 
 <br>
 
 
-<h2 align="left" id="waveafterwave-stack">🧊 Tech stack</h2>
+<h2 align="left" id="waveafterwave-stack">🔥 Tech stack</h2>
 
 <table width='100%'>
   <tr>
