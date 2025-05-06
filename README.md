@@ -10,7 +10,7 @@ Frontend Developer 🌧️
 <br>
 
 
-<h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
+<h2 align="left" id="waveafterwave-stack">🧊 Tech stack</h2>
 
 <table width='100%'>
   <tr>
