@@ -24,7 +24,7 @@ Frontend Developer 🌧️
       <a href="#waveafterwave-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
       </a>
-      <br>CSS
+      <br>   CSS
     </td>
     <td align="center" width="110" height="90">
       <a href="#waveafterwave-stack">
