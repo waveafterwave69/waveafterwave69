@@ -1,8 +1,6 @@
 <h1 align="left">:wave: Hello! I'm Michael</h1>
 
-<br>
-
-Frontend Developer 🔮
+##Frontend Developer
 
 - 🧩: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 - 💬: &nbsp;Let's talk more in **[Telegram](https://t.me/wasdwave)**
