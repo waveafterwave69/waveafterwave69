@@ -10,7 +10,7 @@
 <br>
 
 
-<h2 align="left" id="waveafterwave-stack">🔥 Tech stack</h2>
+<h2 align="left" id="waveafterwave-stack">⚡ Tech stack</h2>
 
 <table width='100%'>
   <tr>
@@ -119,10 +119,18 @@
 
 <br>
 
+## 💻 Projects
+- &nbsp;**[Проект с использованием RAWG API](steam-games-three.vercel.app)**
+- &nbsp;**[Мессенджер с использованием WebSockets](https://locked-messenger.vercel.app)**
+- &nbsp;**[Проект с использованием THE CAT API](catspedia.vercel.app)**
+- &nbsp;**[Онлайн магащин с использованием PLATZI STORE API](https://online-shop-plum-two.vercel.app)**
+<br>
 
-## ☄️ Contact
+## 💬 Contact
 
-- 💬 &nbsp;**[Telegram](https://t.me/wasdwave)**
-- ✨ &nbsp;**[Github](https://github.com/waveafterwave69)**
+- &nbsp;**[Telegram](https://t.me/wasdwave)**
+- &nbsp;**[Github](https://github.com/waveafterwave69)**
 
 <br>
+
+
