@@ -122,7 +122,7 @@
 ## 💻 Projects
 - &nbsp;**[Проект с использованием RAWG API](https://steam-games-three.vercel.app)**
 - &nbsp;**[Мессенджер с использованием WebSockets](https://locked-messenger.vercel.app)**
-- &nbsp;**[Проект с использованием THE CAT API](catspedia.vercel.app)**
+- &nbsp;**[Проект с использованием THE CAT API](https://catspedia.vercel.app)**
 - &nbsp;**[Онлайн магащин с использованием PLATZI STORE API](https://online-shop-plum-two.vercel.app)**
 <br>
 
