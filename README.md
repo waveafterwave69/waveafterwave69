@@ -2,8 +2,10 @@
 
 <br/>
 
-- 🧐 Frontend Developer 
+- 🧐 Frontend Developer
+- 
 - 🧩&nbsp;I develop for all platforms using **[TypeScript](https://www.typescriptlang.org/)**
+- 
 - 💬&nbsp;Let's talk more in **[Telegram](https://t.me/wasdwave)**
 
 <br>
