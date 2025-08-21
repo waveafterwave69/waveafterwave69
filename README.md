@@ -3,9 +3,9 @@
 <br/>
 
 - 🧐 Frontend Developer
-- 
+  
 - 🧩&nbsp;I develop for all platforms using **[TypeScript](https://www.typescriptlang.org/)**
-- 
+  
 - 💬&nbsp;Let's talk more in **[Telegram](https://t.me/wasdwave)**
 
 <br>
@@ -122,14 +122,19 @@
 
 ## 💻 Projects
 - &nbsp;**[Онлайн кинотеатр с использованием KINOPOISK UNOFFICIAL API](https://wasd-cinema.ru)**
+  
 - &nbsp;**[Проект с использованием RAWG API](https://steam-games-three.vercel.app)**
+  
 - &nbsp;**[Мессенджер с использованием WebSockets](https://locked-messenger.vercel.app)**
+  
 - &nbsp;**[Проект с использованием THE CAT API](https://catspedia.vercel.app)**
+  
 - &nbsp;**[Онлайн магазин с использованием PLATZI STORE API](https://online-shop-plum-two.vercel.app)**
 <br>
 
 ## 💬 Contact
 
 - &nbsp;**[Telegram](https://t.me/wasdwave)**
+  
 - &nbsp;**[Github](https://github.com/waveafterwave69)**
 <br>
