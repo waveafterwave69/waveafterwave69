@@ -39,33 +39,50 @@
       </a>
       <br>TypeScript
     </td>
-   
   <td align="center" width="110" height="90">
       <a href="#waveafterwave-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
       </a>
       <br>React
     </td>
- <td align="center" width="110" height="90">
+     <td align="center" width="110" height="90"> 
+      <a href="#waveafterwave-stack" >
+        <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="36" height="36" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+    <td align="center" width="110" height="90">
       <a href="#waveafterwave-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
+   <td align="center" width="110" height="90">
+      <a href="#waveafterwave-stack" >
+        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="36" height="36" alt="Zustand" />
+      </a>
+      <br>Zustand
+    </td>
+ <td align="center" width="110" height="90"> 
+      <a href="#waveafterwave-stack" >
+        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
+      </a>
+      <br>Storybook
+    </td>
+</tr>
+<tr>
     <td align="center" width="110" height="90">
       <a href="#waveafterwave-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>SASS
     </td>
-   <td align="center" width="110" height="90">
+  <td align="center" width="110" height="90">
       <a href="#waveafterwave-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
-</tr>
-<tr>
  <td align="center" width="110" height="90"> 
       <a href="#waveafterwave-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
@@ -77,18 +94,6 @@
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
-    </td> 
- <td align="center" width="110" height="90"> 
-      <a href="#waveafterwave-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-        <td align="center" width="110" height="90"> 
-      <a href="#waveafterwave-stack" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
-      </a>
-      <br>Storybook
     </td>
      <td align="center" width="110" height="90">
       <a href="#waveafterwave-stack">
@@ -114,7 +119,12 @@
       </a>
       <br>Git
     </td>
-    
+ <td align="center" width="110" height="90"> 
+      <a href="#waveafterwave-stack" >
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="36" height="36" alt="github" />
+      </a>
+      <br>github
+    </td>
   </tr> 
 </table>
 
