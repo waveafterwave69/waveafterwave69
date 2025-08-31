@@ -136,6 +136,7 @@
 - &nbsp;**[Мессенджер с использованием WebSockets](https://locked-messenger.vercel.app)**
 - &nbsp;**[Проект с использованием THE CAT API](https://catspedia.vercel.app)**
 - &nbsp;**[Онлайн магазин с использованием PLATZI STORE API](https://online-shop-plum-two.vercel.app)**
+- &nbsp;**[Сайт-визитка на Next.js с SEO-оптимизацией](https://catarog.ru)**
 <br>
 
 ## 💬 Contact
