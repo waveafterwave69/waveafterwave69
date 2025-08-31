@@ -123,7 +123,7 @@
       <a href="#waveafterwave-stack" >
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="36" height="36" alt="github" />
       </a>
-      <br>github
+      <br>GitHub
     </td>
   </tr> 
 </table>
