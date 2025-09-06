@@ -1,9 +1,5 @@
-
-
-
-
+<img src="https://i.pinimg.com/originals/1d/51/5f/1d515f7cc97f34b9ac0c85ec0c7abda8.gif" alt="gif" width="100%">
 <h1 align="left">:wave: Hello! I'm Michael</h1>
-<img src="https://i.pinimg.com/originals/17/a5/3d/17a53df5b11e899f6edadbfa41c488e4.gif" alt="gif" width="100%">
 <br/>
 
 - 🧐 Frontend Developer
@@ -13,6 +9,7 @@
 - 💬&nbsp;Let's talk more in **[Telegram](https://t.me/wasdwave)**
 
 <br>
+
 
 <h2 align="left" id="waveafterwave-stack">⚡ Tech stack</h2>
 
