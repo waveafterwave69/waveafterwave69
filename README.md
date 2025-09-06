@@ -1,8 +1,7 @@
 <h1 align="left">:wave: Hello! I'm Michael</h1>
 
 <div style="display:flex">
-  <img src="https://i.pinimg.com/originals/1d/51/5f/1d515f7cc97f34b9ac0c85ec0c7abda8.gif" alt="gif" width="65%">
-  <img src="https://i.pinimg.com/736x/41/3c/06/413c06d36be44bdd36fd19db0ad9a071.jpg" alt="gif" width="30%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg5ZmpyYmlxYzI4aWkwdmswMWpmdDlpNDB1enNzbG9zdnlzNHp4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Iv5lqKwKsZ2g/giphy.gif" alt="gif" width="100%">
 </div>
 <br/>
 
