@@ -1,9 +1,9 @@
 
-<img src="https://i.pinimg.com/originals/81/15/fb/8115fb21316758994697f617f5a55a07.gif" alt="gif" width="100%">
+
 
 
 <h1 align="left">:wave: Hello! I'm Michael</h1>
-
+<img src="https://i.pinimg.com/originals/17/a5/3d/17a53df5b11e899f6edadbfa41c488e4.gif" alt="gif" width="100%">
 <br/>
 
 - 🧐 Frontend Developer
