@@ -1,3 +1,7 @@
+
+<img src="https://i.pinimg.com/originals/81/15/fb/8115fb21316758994697f617f5a55a07.gif" alt="gif" width="100%">
+
+
 <h1 align="left">:wave: Hello! I'm Michael</h1>
 
 <br/>
@@ -9,7 +13,6 @@
 - 💬&nbsp;Let's talk more in **[Telegram](https://t.me/wasdwave)**
 
 <br>
-
 
 <h2 align="left" id="waveafterwave-stack">⚡ Tech stack</h2>
 
