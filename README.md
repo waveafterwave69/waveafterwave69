@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 💻 **Frontend Developer** with passion for clean code and beautiful UI
+- 💻 **Frontend Developer**
 - 🎯 **Specializing in:** TypeScript, Vue & React 
 - 📫 **How to reach me:** [Telegram](https://t.me/wasdwave) | [Email](mailto:waveafterwave3w2@gmail.com)
 
@@ -18,33 +18,31 @@
 
 ## 🛠 Tech Stack
 
-<div>
-
 ### **💻 Core Technologies**
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"style="margin-right: 25px;" />
+<div style="display: flex; flex-wrap: wrap; column-gap: 20px; row-gap: 15px; margin-bottom: 30px;">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
 </div>
 
 ### **🎨 Styling & UI**
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
+<div style="display: flex; flex-wrap: wrap; column-gap: 20px; row-gap: 15px; margin-bottom: 30px;">
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="TailwindCSS" />
   <img src="https://skillicons.dev/icons?i=sass" alt="SASS" title="SASS" />
   <img src="https://skillicons.dev/icons?i=mui" alt="Material UI" title="Material UI" />
-  <img src="https://skillicons.dev/icons?i=quasar" alt="Quasar" title="Quasar" />
+  <img src="https://api.iconify.design/simple-icons:quasar.svg?color=%234fc08d" width="48" height="48" alt="Quasar" title="Quasar" />
 </div>
 
 ### **⚡ Vue Ecosystem**
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
+<div style="display: flex; flex-wrap: wrap; column-gap: 20px; row-gap: 15px; margin-bottom: 30px;">
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" title="Nuxt.js" />
   <img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" title="Pinia" />
 </div>
 
 ### **⚛️ React Ecosystem**
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
+<div style="display: flex; flex-wrap: wrap; column-gap: 20px; row-gap: 15px; margin-bottom: 30px;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" />
@@ -52,7 +50,7 @@
 </div>
 
 ### **🛠 Development Tools**
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
+<div style="display: flex; flex-wrap: wrap; column-gap: 20px; row-gap: 15px; margin-bottom: 30px;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" title="Webpack" />
   <img src="https://skillicons.dev/icons?i=npm" alt="NPM" title="NPM" />
@@ -60,15 +58,16 @@
 </div>
 
 ### **🌐 Platforms & Design**
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
+<div style="display: flex; flex-wrap: wrap; column-gap: 20px; row-gap: 15px; margin-bottom: 30px;">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
 </div>
 
-</div>
 
-</br>
+<br>
+
+<br>
 
 ## 🎯 Projects
 
