@@ -41,7 +41,6 @@
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" title="Nuxt.js" />
   <img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" title="Pinia" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />
 </div>
 
 ### **⚛️ React Ecosystem**
