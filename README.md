@@ -1,10 +1,10 @@
-<h1>👋 Hello, I'm Michael</h1>
-
+<h1 align="center">👋 Hello, I'm Michael</h1>
+<h3 align="center">Frontend Developer specializing in Vue & React ecosystems</h3>
 
 <br>
 
-<div style="display:flex">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg5ZmpyYmlxYzI4aWkwdmswMWpmdDlpNDB1enNzbG9zdnlzNHp4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Iv5lqKwKsZ2g/giphy.gif" alt="gif" width="100%">
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg5ZmpyYmlxYzI4aWkwdmswMWpmdDlpNDB1enNzbG9zdnlzNHp4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Iv5lqKwKsZ2g/giphy.gif" alt="Coding GIF" width="600" height="300" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 <br>
@@ -19,42 +19,46 @@
 
 ## 🛠 Tech Stack
 
-### **Frontend Development**
+### **💻 Core Technologies**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Vue Ecosystem**
+### **🎨 Styling & UI**
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+### **⚡ Vue Ecosystem**
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![Vue Router](https://img.shields.io/badge/Vue_Router-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=000000)
+![Vue Router](https://img.shields.io/badge/Vue_Router-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### **React Ecosystem**
+### **⚛️ React Ecosystem**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
-### **Tools & Platforms**
+### **🛠 Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### **🌐 Platforms & Design**
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
-## 🎯 Projects
+## 🎯 Featured Projects
 
 ### 🎬 [Online Cinema](https://online-cinema-steel.vercel.app)
-**React • TypeScript • KinoPoisk API**
+**Vue • TypeScript • KinoPoisk API**
 > Онлайн-кинотеатр с использованием KINOPOISK UNOFFICIAL API. Фильмы, сериалы, поиск и избранное.
 
 ### 🎮 [Steam Game Hub](https://steam-games-three.vercel.app)
@@ -62,7 +66,7 @@
 > Платформа для поиска игр с использованием RAWG API. Фильтрация, рейтинги, детальная информация.
 
 ### 💬 [Locked Messenger](https://locked-messenger.vercel.app)
-**React • WebSockets • Node.js**
+**Vue • WebSockets • Node.js**
 > Реал-тайм мессенджер с использованием WebSockets. Групповые чаты, уведомления.
 
 ### 🐱 [Catspedia](https://catspedia.vercel.app)
@@ -70,7 +74,7 @@
 > Интерактивная энциклопедия кошек с использованием THE CAT API.
 
 ### 🛒 [Online Shop](https://online-shop-plum-two.vercel.app)
-**React • PLATZI STORE API**
+**Vue • PLATZI STORE API**
 > Полнофункциональный интернет-магазин с корзиной и избранным.
 
 ### 🌐 [Catarog - Tarot Cards](https://catarog.ru)
@@ -79,20 +83,23 @@
 
 <br>
 
-## 📈 Activity Graph
+## 📈 GitHub Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=waveafterwave69&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waveafterwave69&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 <br>
 
 ## 📫 Connect With Me
 
 <div align="center">
-  
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wasdwave)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waveafterwave69)
-  
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Contact%20Me)](https://t.me/wasdwave)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Follow%20Me)](https://github.com/waveafterwave69)
+
 </div>
 
 <br>
-
