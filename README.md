@@ -58,7 +58,7 @@
 ## 🎯 Featured Projects
 
 ### 🎬 [Online Cinema](https://online-cinema-steel.vercel.app)
-**Vue • TypeScript • KinoPoisk API**
+**React • TypeScript • KinoPoisk API**
 > Онлайн-кинотеатр с использованием KINOPOISK UNOFFICIAL API. Фильмы, сериалы, поиск и избранное.
 
 ### 🎮 [Steam Game Hub](https://steam-games-three.vercel.app)
@@ -66,7 +66,7 @@
 > Платформа для поиска игр с использованием RAWG API. Фильтрация, рейтинги, детальная информация.
 
 ### 💬 [Locked Messenger](https://locked-messenger.vercel.app)
-**Vue • WebSockets • Node.js**
+**React • WebSockets • Node.js**
 > Реал-тайм мессенджер с использованием WebSockets. Групповые чаты, уведомления.
 
 ### 🐱 [Catspedia](https://catspedia.vercel.app)
@@ -74,7 +74,7 @@
 > Интерактивная энциклопедия кошек с использованием THE CAT API.
 
 ### 🛒 [Online Shop](https://online-shop-plum-two.vercel.app)
-**Vue • PLATZI STORE API**
+**React • PLATZI STORE API**
 > Полнофункциональный интернет-магазин с корзиной и избранным.
 
 ### 🌐 [Catarog - Tarot Cards](https://catarog.ru)
@@ -97,8 +97,8 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Contact%20Me)](https://t.me/wasdwave)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Follow%20Me)](https://github.com/waveafterwave69)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wasdwave)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waveafterwave69)
 
 </div>
 
