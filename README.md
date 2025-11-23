@@ -18,42 +18,58 @@
 
 ## 🛠 Tech Stack
 
+<div>
+
 ### **💻 Core Technologies**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
+</div>
 
 ### **🎨 Styling & UI**
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-4FC08D?style=for-the-badge&logo=quasar&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" title="SASS" />
+  <img src="https://skillicons.dev/icons?i=mui" alt="Material UI" title="Material UI" />
+  <img src="https://skillicons.dev/icons?i=quasar" alt="Quasar" title="Quasar" />
+</div>
 
 ### **⚡ Vue Ecosystem**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=000000)
-![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vuerouter&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" title="Nuxt.js" />
+  <img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" title="Pinia" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />
+</div>
 
 ### **⚛️ React Ecosystem**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-D46C13?style=for-the-badge&logo=zustand&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" />
+  <img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" title="Zustand" />
+</div>
 
 ### **🛠 Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 25px;">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" title="Webpack" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="NPM" title="NPM" />
+</div>
 
 ### **🌐 Platforms & Design**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-AB47BC?style=for-the-badge&logo=figma&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 12px;  margin-bottom: 25px;">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
+</div>
 
-<br>
+</div>
+
+</br>
 
 ## 🎯 Projects
 
