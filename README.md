@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hello, I'm Michael</h1>
-<h3 align="center">Frontend Developer specializing in Vue & React ecosystems</h3>
 
 <br>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg5ZmpyYmlxYzI4aWkwdmswMWpmdDlpNDB1enNzbG9zdnlzNHp4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Iv5lqKwKsZ2g/giphy.gif" alt="Coding GIF" width="600" height="300" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg5ZmpyYmlxYzI4aWkwdmswMWpmdDlpNDB1enNzbG9zdnlzNHp4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Iv5lqKwKsZ2g/giphy.gif" alt="Coding GIF" width="100%">
 </div>
 
 <br>
