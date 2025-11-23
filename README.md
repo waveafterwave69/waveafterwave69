@@ -16,7 +16,15 @@
 
 <h2 align="left" id="waveafterwave-stack">⚡ Tech stack</h2>
 
-<table width='100%'>
+HTML, CSS, JavaScript, TypeScript, SASS, Tailwind, Webpack, Vite, Figma, npm, Axios, Git, GitHub, GitLab
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="36" height="36" alt="Vue" />
+Vue, Nuxt, VueUse, Vue Router, Pinia
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" width="36" height="36" alt="React" />
+React, Next JS, Redux, Zustand, MUI
+
+<!-- <table width='100%'>
   <tr>
      <td align="center" width="110" height="90">
       <a href="#waveafterwave-stack">
@@ -129,7 +137,7 @@
       <br>GitHub
     </td>
   </tr> 
-</table>
+</table> -->
 
 <br>
 
