@@ -54,7 +54,7 @@
 
 <br>
 
-## 🎯 Featured Projects
+## 🎯 Projects
 
 ### 🎬 [Online Cinema](https://online-cinema-steel.vercel.app)
 **React • TypeScript • KinoPoisk API**
