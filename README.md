@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" />
-  <img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" title="Zustand" />
+ <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Zustand" title="Zustand" />
 </div>
 
 ### **🛠 Development Tools**
