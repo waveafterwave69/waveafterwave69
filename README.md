@@ -71,6 +71,12 @@
 
 ## 🎯 Projects
 
+
+
+### 📃 [Todo List](https://vue-todo-ruddy-chi.vercel.app)
+**Vue • TypeScript • Смена Темы**
+> Этот инструмент создан, чтобы помочь вам лучше справляться со своими задачами.
+
 ### 🎬 [Online Cinema](https://online-cinema-steel.vercel.app)
 **React • TypeScript • KinoPoisk API**
 > Онлайн-кинотеатр с использованием KINOPOISK UNOFFICIAL API. Фильмы, сериалы, поиск и избранное.
@@ -83,15 +89,11 @@
 **React • WebSockets • Node.js**
 > Реал-тайм мессенджер с использованием WebSockets. Групповые чаты, уведомления.
 
-### 🐱 [Catspedia](https://catspedia.vercel.app)
-**React • THE CAT API**
-> Интерактивная энциклопедия кошек с использованием THE CAT API.
-
 ### 🛒 [Online Shop](https://online-shop-plum-two.vercel.app)
 **React • PLATZI STORE API**
 > Полнофункциональный интернет-магазин с корзиной и избранным.
 
-### 🌐 [Catarog - Tarot Cards](https://catarog.ru)
+### 🧿 [Catarog - Tarot Cards](https://catarog.ru)
 **Next.js • SEO • TypeScript**
 > Сайт-визитка с SEO-оптимизацией и современным дизайном.
 
