@@ -12,7 +12,7 @@
 
 - 💻 **Frontend Developer**
 - 🎯 **Specializing in:** TypeScript, Vue & React 
-- 📫 **How to reach me:** [Telegram](https://t.me/wasdwave) | [Email](mailto:waveafterwave3w2@gmail.com)
+- 📫 **Connect with me:** [Telegram](https://t.me/wasdwave) | [Email](mailto:waveafterwave3w2@gmail.com)
 
 <br>
 
@@ -103,8 +103,6 @@
 </div>
 
 <br>
-
-## 📫 Connect With Me
 
 <div align="center">
 
