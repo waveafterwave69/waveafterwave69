@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Michael</h1>
+# 👋 Hello, I'm Michael
 
 <br>
 
@@ -64,14 +64,9 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
 </div>
 
-
-<br>
-
 <br>
 
 ## 🎯 Projects
-
-
 
 ### 📃 [Todo List](https://vue-todo-ruddy-chi.vercel.app)
 **Vue • TypeScript • Смена Темы**
@@ -115,6 +110,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wasdwave)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waveafterwave69)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/wasdwave)
 
 </div>
 
