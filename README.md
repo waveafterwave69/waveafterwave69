@@ -88,10 +88,6 @@
 **React • PLATZI STORE API**
 > Полнофункциональный интернет-магазин с корзиной и избранным.
 
-### 🧿 [Catarog - Tarot Cards](https://catarog.ru)
-**Next.js • SEO • TypeScript**
-> Сайт-визитка с SEO-оптимизацией и современным дизайном.
-
 <br>
 
 ## 📈 GitHub Activity
