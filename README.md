@@ -52,9 +52,11 @@
 ### **🛠 Development Tools**
 <div style="display: flex; flex-wrap: wrap; column-gap: 20px; row-gap: 15px; margin-bottom: 30px;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" title="Webpack" />
   <img src="https://skillicons.dev/icons?i=npm" alt="NPM" title="NPM" />
+  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" title="Webpack" />
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />
+  <img src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" width="48" height="48" alt="Prettier" title="Prettier" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="48" height="48" alt="ESLint" title="ESLint" />
 </div>
 
 ### **🌐 Platforms & Design**
