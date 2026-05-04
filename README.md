@@ -18,12 +18,13 @@
 
 ## 🛠 Tech Stack
 
-### **💻 Core Technologies**
-<div style="display: flex; flex-wrap: wrap; column-gap: 20px; row-gap: 15px; margin-bottom: 30px;">
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
+### **💻 Core Technologies** 
+<div style="display: flex; flex-wrap: wrap; column-gap: 20px; row-gap: 15px; margin-bottom: 30px;"> 
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" /> 
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /> 
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /> 
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
 </div>
 
 ### **🎨 Styling & UI**
