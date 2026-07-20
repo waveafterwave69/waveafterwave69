@@ -69,30 +69,7 @@
 
 <br>
 
-## 🎯 Projects
 
-### 📃 [Todo List](https://vue-todo-ruddy-chi.vercel.app)
-**Vue • TypeScript • Смена Темы**
-> Этот инструмент создан, чтобы помочь вам лучше справляться со своими задачами.
-
-### 🎬 [Online Cinema](https://online-cinema-steel.vercel.app)
-**React • TypeScript • KinoPoisk API**
-> Онлайн-кинотеатр с использованием KINOPOISK UNOFFICIAL API. Фильмы, сериалы, поиск и избранное.
-
-### 🎮 [Steam Game Hub](https://steam-games-three.vercel.app)
-**React • TypeScript • RAWG API**
-> Платформа для поиска игр с использованием RAWG API. Фильтрация, рейтинги, детальная информация.
-
-### 💬 [Locked Messenger](https://locked-messenger.vercel.app)
-**React • WebSockets • Node.js**
-> Реал-тайм мессенджер с использованием WebSockets. Групповые чаты, уведомления.
-
-### 🛒 [Online Shop](https://online-shop-plum-two.vercel.app)
-**React • PLATZI STORE API**
-> Полнофункциональный интернет-магазин с корзиной и избранным.
-
-<br>
-<br>
 
 <div align="center">
 
